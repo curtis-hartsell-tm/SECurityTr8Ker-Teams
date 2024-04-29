@@ -24,6 +24,7 @@ The script operates by performing the following steps in a continuous loop:
 ### Prerequisites
 
 - Python 3.x
+- Teams Webhook URL: `teams_webhook_url = "YOUR-TEAMS-TEAM-WEBHOOK-URL"`
 - Required Python packages: `requests`, `xmltodict`, `beautifulsoup4`, `colorlog`
 
 You can install the necessary Python packages using `pip`:
